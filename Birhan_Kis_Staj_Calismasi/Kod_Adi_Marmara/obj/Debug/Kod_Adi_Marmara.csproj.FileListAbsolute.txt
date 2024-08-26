@@ -1,0 +1,10 @@
+C:\Users\birha\source\repos\Kod_Adi_Marmara\bin\Debug\Kod_Adi_Marmara.exe.config
+C:\Users\birha\source\repos\Kod_Adi_Marmara\bin\Debug\Kod_Adi_Marmara.exe
+C:\Users\birha\source\repos\Kod_Adi_Marmara\bin\Debug\Kod_Adi_Marmara.pdb
+C:\Users\birha\source\repos\Kod_Adi_Marmara\obj\Debug\Kod_Adi_Marmara.csproj.AssemblyReference.cache
+C:\Users\birha\source\repos\Kod_Adi_Marmara\obj\Debug\Kod_Adi_Marmara.Form1.resources
+C:\Users\birha\source\repos\Kod_Adi_Marmara\obj\Debug\Kod_Adi_Marmara.Properties.Resources.resources
+C:\Users\birha\source\repos\Kod_Adi_Marmara\obj\Debug\Kod_Adi_Marmara.csproj.GenerateResource.cache
+C:\Users\birha\source\repos\Kod_Adi_Marmara\obj\Debug\Kod_Adi_Marmara.csproj.CoreCompileInputs.cache
+C:\Users\birha\source\repos\Kod_Adi_Marmara\obj\Debug\Kod_Adi_Marmara.exe
+C:\Users\birha\source\repos\Kod_Adi_Marmara\obj\Debug\Kod_Adi_Marmara.pdb
